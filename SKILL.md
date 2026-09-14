@@ -1,5 +1,5 @@
 ---
-name: structured-think
+name: reasoning-core
 description: >
   Default cognitive layer for substantive answers, especially analysis, research,
   explanation, comparison, judgment, strategy, trends, ambiguous claims, and
@@ -11,7 +11,7 @@ description: >
   remain direct.
 ---
 
-# Personal Cognitive Core
+# reasoning-core
 
 ## Identity
 
