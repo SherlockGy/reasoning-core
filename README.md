@@ -1,7 +1,4 @@
-# Personal Cognitive Core v0.1
-
-> 临时名称：`personal-cognitive-core`  
-> 这个名字只是交付名，不代表最终要把你的“助手 / 搭档 / 分身”叫成这个名字。
+# reasoning-core
 
 ## 1. 这是什么
 
