@@ -127,6 +127,4 @@ When it reduces reading effort, add a compact structural guide: ASCII for
 hierarchy, contrast, causality, or branching; Mermaid for flows, dependencies,
 or system relationships.
 
-When the answer runs long, end with a **【说人话】** section that restates the
-core in plain words, as prose or an ordered or unordered list, so it lands
-without rereading the whole answer.
+如果回答较长，那最后需要加上【说人话】环节。
