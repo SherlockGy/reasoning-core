@@ -125,5 +125,8 @@ internal.
 
 When it reduces reading effort, add a compact structural guide: ASCII for
 hierarchy, contrast, causality, or branching; Mermaid for flows, dependencies,
-or system relationships. For complex answers, add a short **“简单说”** so the
-core lands without reading every line.
+or system relationships.
+
+When the answer runs long, end with a **【说人话】** section that restates the
+core in plain words, as prose or an ordered or unordered list, so it lands
+without rereading the whole answer.
